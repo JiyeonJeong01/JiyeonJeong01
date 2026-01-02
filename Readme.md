@@ -6,7 +6,6 @@
 
 
 ## 🛠 Tech Stack
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br/><br/>
@@ -17,8 +16,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
-<br/><br/>
-
+----
 <br/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiyeonJeong01&utm_content=farm">

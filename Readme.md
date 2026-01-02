@@ -1,16 +1,8 @@
 <div align="center">
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&text=Hi,%20I'm%20Jiyeon👋&fontAlign=70&fontSize=60&rotate=13&fontAlignY=20&desc=Jizz's%20GitHub&descAlign=70.&descAlignY=44)
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiyeonJeong01&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/JiyeonJeong01"
-    width="500"
-    height="200"
-  />
-</a>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=E6F4EA&height=230&text=Hi,%20I'm%20Jiyeon👋&fontAlign=72&fontColor=2F2F2F&fontSize=60&rotate=13&fontAlignY=20&desc=Jizz's%20GitHub&descAlign=70.&descAlignY=44)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2500&pause=1000&color=4C22F7FF&background=FF416000&center=true&vCenter=true&repeat=false&width=500&lines=🎮From+code+to+gameplay🎮)](https://git.io/typing-svg)
-
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -22,3 +14,12 @@
 <br/><br/>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiyeonJeong01&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/JiyeonJeong01"
+    width="500"
+    height="200"
+  />
+</a>
+
+---

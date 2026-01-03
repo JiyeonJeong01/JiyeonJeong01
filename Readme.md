@@ -18,7 +18,7 @@
   <img
     src="https://render.gitanimals.org/farms/JiyeonJeong01"
     width="500"
-    height="200"
+    height="300"
   />
 </a>
 

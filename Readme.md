@@ -7,10 +7,10 @@
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![DirectX9](https://img.shields.io/badge/DirectX_9-5E5E5E?style=for-the-badge&logo=directx&logoColor=white)
-![DirectX11](https://img.shields.io/badge/DirectX_11-0078D6?style=for-the-badge&logo=directx&logoColor=white)
-![WinAPI](https://img.shields.io/badge/WinAPI-6A5ACD?style=for-the-badge&logo=windows&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<img src="https://img.shields.io/badge/DirectX%209-5E5E5E?style=for-the-badge" alt="DirectX 9">
+<img src="https://img.shields.io/badge/DirectX%2011-0078D6?style=for-the-badge" alt="DirectX 11">
+<img src="https://img.shields.io/badge/WinAPI-6A5ACD?style=for-the-badge" alt="WinAPI">
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Photon](https://img.shields.io/badge/photon-%23004480.svg?style=for-the-badge&logo=photon&logoColor=white)
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=8296ba&height=230&text=Hi,%20I'm%20Jiyeon👋&fontAlign=73&fontColor=2F2F2F&fontSize=55&rotate=13&fontAlignY=20&desc=Jizz's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=8296ba&height=230&text=Hi,%20I'm%20Jiyeon👋&fontAlign=73&fontColor=2F2F2F&fontSize=55&rotate=13&fontAlignY=20&desc=ZiOfs's%20GitHub&descAlign=70.&descAlignY=44)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2500&pause=1000&color=515ab3&background=FF416000&center=true&vCenter=true&repeat=false&width=500&lines=🎮From+code+to+gameplay🎮)](https://git.io/typing-svg)
 
